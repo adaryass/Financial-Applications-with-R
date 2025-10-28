@@ -3,20 +3,20 @@ Nous sommes une équipe composée de quatre membres. L’objectif de ce projet e
 
 Les principales étapes du projet sont les suivantes :
 
-**1.Construction d’un portefeuille équipondéré :**
+**1. Construction d’un portefeuille équipondéré :**
 Chaque titre du portefeuille est initialement pondéré de manière égale.
 
-**2.Calcul de la rentabilité du portefeuille ($r_p$​) :**
+**2. Calcul de la rentabilité du portefeuille ($r_p$​) :**
 Nous déterminerons la rentabilité moyenne du portefeuille sur la période d’étude.
 
-**3.Optimisation des poids (w_i​) :**
+**3. Optimisation des poids ($w_i$​) :**
 Les pondérations des titres seront ensuite optimisées afin de maximiser la rentabilité ajustée du risque, sous certaines contraintes.
 
-**4.Contraintes sectorielles :**
+**4. Contraintes sectorielles :**
 Une limite maximale sera imposée pour la pondération de chaque secteur (Automobile, Énergie, Télécommunications, etc.) afin d’assurer une diversification adéquate.
 
 
-**5.Analyse de la contribution à la volatilité :**
+**5. Analyse de la contribution à la volatilité :**
 Un tableau récapitulatif présentera la contribution de chaque actif à la volatilité totale du portefeuille.
 
 
