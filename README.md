@@ -31,17 +31,35 @@ Un tableau récapitulatif présentera la contribution de chaque actif à la vola
 2. L'Etude de la structure du S&P 500
    - Le S&P 500 est composé des 500 grandes entreprises américaines réparties sur plusieurs secteurs: Technologie, Santé, Finance, Conso discrétionnaire, Industrie, Consommation de base,            Energie.
 
-|   Secteur                |  Poids moyen             | Exemples                    |           
-|--------------------------|--------------------------|-----------------------------|
-|Technologies de l’information               |         ~35,60 %             |   | 
-|Financières	                  |         ~13,03 %	         |                |
-|Consommation discrétionnaire                  |         ~10,36 %	         |       |
-|Services de communication	   |         ~10,20 %	         |              |
-|Santé                 |         ~9,05 %%             |       |
-|Industrie           |         ~8,14 %	            |  |
-|Énergie	                  |         ~4 %	            |        |
-|Consommation de base| ~ 4,82 %  |                  |
-|Immobilier     |   ~1,91%|      | 
+|   Secteur                    |        Poids moyen       | Exemples                    |           
+|------------------------------|--------------------------|-----------------------------|
+|Technologies de l’information |         ~35,60 %         |                             | 
+|Financières	                |         ~13,03 %	       |                             |
+|Consommation discrétionnaire  |         ~10,36 %	       |                             |
+|Services de communication	    |         ~10,20 %	       |                             |
+|Santé                         |         ~9,05 %%         |                             |
+|Industrie                     |         ~8,14 %	       |                             |
+|Énergie	                      |         ~4 %	          |                             |
+|Consommation de base          |         ~ 4,82 %         |                             |
+|Immobilier                    |         ~1,91%           |                             | 
+
+3. La sélection des entreprises:
+   - Pour chaque secteur, on choisi les leaders solides.
+   - Pour ça, on va utiliser ces sites fiables:
+
+ |  Zonebourse.com |
+
+ |Investing.com    |
+
+ |Morningstar.com  |
+
+ |Yahoo Finance    |
+
+
+ 4. La répartition de son Capital:
+
+ 5. La suivie et le réequilibrage:
+   
 
 
 
