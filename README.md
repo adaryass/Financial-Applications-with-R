@@ -30,10 +30,10 @@ Un tableau récapitulatif présentera la contribution de chaque actif à la vola
 
 2. L'Etude de la structure du S&P 500
    - Le S&P 500 est composé des 500 grandes entreprises américaines réparties sur plusieurs secteurs: Technologie, Santé, Finance, Conso discrétionnaire, Industrie, Consommation de base,            Energie.
-  
-               |                   |
-  -------------|-------------------|------------------------
-               |                   |
+
+|   Secteur           |  Poids moyen     |      Exemples |           
+|---------------------|------------------|---------------|
+   
 
 
 
