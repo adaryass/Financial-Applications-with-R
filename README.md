@@ -46,7 +46,8 @@ Un tableau récapitulatif présentera la contribution de chaque actif à la vola
 3. La sélection des entreprises:
    - Pour chaque secteur, on choisi les leaders solides.
    - Pour ça, on va utiliser ces sites fiables:
-
+     
+ |                 |                 |                  |                  |
  |-----------------|-----------------|------------------|------------------|
  |  Zonebourse.com | Investing.com   | Morningstar.com  | Yahoo Finance    |
 
