@@ -33,13 +33,17 @@ Un tableau récapitulatif présentera la contribution de chaque actif à la vola
 
 |   Secteur                |  Poids moyen             | Exemples                    |           
 |--------------------------|--------------------------|-----------------------------|
-|Technologie               |         ~30%             |Apple, Microsoft, Nvidia     | 
-|Santé	                  |         ~13 %	         | J&J, Pfizer                 |
-|Finance	                  |         ~12 %	         |JPMorgan, Berkshire Hathaway |
-|Conso discrétionnaire	   |         ~10 %	         |Amazon, Tesla                |
-|Industrie                 |         ~9 %             |Caterpillar, Honeywel        |
-|Conso de base	            |         ~6 %	            |Coca-Cola, Procter & Gamble  |
-|Énergie	                  |         ~4 %	            |ExxonMobil, Chevron          |
-|--------------------------|--------------------------|-----------------------------|
+|Technologies de l’information               |         ~35,60 %             |   | 
+|Financières	                  |         ~13,03 %	         |                |
+|Consommation discrétionnaire                  |         ~10,36 %	         |       |
+|Services de communication	   |         ~10,20 %	         |              |
+|Santé                 |         ~9,05 %%             |       |
+|Industrie           |         ~8,14 %	            |  |
+|Énergie	                  |         ~4 %	            |        |
+|Consommation de base| ~ 4,82 %  |                  |
+|Immobilier     |   ~1,91%|      | 
+
+
+
 
 
