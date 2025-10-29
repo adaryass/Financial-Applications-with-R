@@ -21,3 +21,19 @@ Un tableau récapitulatif présentera la contribution de chaque actif à la vola
 
 
 
+# Les étapes clé pour choisir ton portfeuille d'actions
+
+1. Définir le profil de l'investisseur:
+   - Quel est son objectif ? Epargne à la retraite, l'achat immobilier,enus complémentaires ?
+   - Quel est son horizon de temps ? Plus il a un horizan de long terme, plus il peux prendre plus de risque.
+   - Quel est sa tolérance au risque ?
+
+2. L'Etude de la structure du S&P 500
+   - Le S&P 500 est composé des 500 grandes entreprises américaines réparties sur plusieurs secteurs: Technologie, Santé, Finance, Conso discrétionnaire, Industrie, Consommation de base,            Energie.
+  
+               |                   |
+  -------------|-------------------|------------------------
+               |                   |
+
+
+
